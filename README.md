@@ -7,10 +7,10 @@ It ancludes list of movies that user wants to watch. It is connected to the data
 
 ## Technologies
 Project is made with: 
-PHP
-mySQL
-HTML
-CSS (Flexbox, Bootstrap)
+* PHP
+* mySQL
+* HTML
+* CSS (Flexbox, Bootstrap)
 
 ## Install
 Install XAMPP to have access to the database and files.
