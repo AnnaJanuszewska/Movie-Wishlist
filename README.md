@@ -5,7 +5,7 @@ Project made for PHP & mySQL Classes at Baruch College.
 <br/>
 It ancludes list of movies that user wants to watch. It is connected to the database. User can make changes: edit, add or delete movies and retrieve actual wishlist.
 
-##Technologie
+## Technologies
 Project is made with: 
 PHP
 mySQL
